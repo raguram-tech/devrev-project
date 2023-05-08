@@ -1,0 +1,20 @@
+.home-page-container {
+  padding-top: 50px;
+}
+
+.home-page-row {
+  margin-bottom: 50px;
+}
+
+.home-page-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .home-page-col {
+    margin-bottom: 50px;
+  }
+}

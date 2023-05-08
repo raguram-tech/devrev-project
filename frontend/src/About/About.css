@@ -1,0 +1,19 @@
+.about-page {
+  position: relative;
+}
+
+.background-image {
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+}
+
+.about-info {
+  padding: 50px 0;
+}
+
+.about-info h2 {
+  margin-bottom: 20px;
+}

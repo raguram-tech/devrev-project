@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "subject": "Fiction",
+    "publishDate": "1925"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "subject": "Fiction",
+    "publishDate": "1960"
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "subject": "Fiction",
+    "publishDate": "1949"
+  },
+  {
+    "id": 4,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "subject": "Fiction",
+    "publishDate": "1951"
+  },
+  {
+    "id": 5,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "subject": "Fiction",
+    "publishDate": "1945"
+  },
+  {
+    "id": 6,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "subject": "Fiction",
+    "publishDate": "1932"
+  },
+  {
+    "id": 7,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "subject": "Fiction",
+    "publishDate": "1937"
+  },
+  {
+    "id": 8,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "subject": "Fiction",
+    "publishDate": "1813"
+  },
+  {
+    "id": 9,
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "subject": "Fiction",
+    "publishDate": "1847"
+  },
+  {
+    "id": 10,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "subject": "Fiction",
+    "publishDate": "1884"
+  },
+  {
+    "id": 11,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "subject": "Fiction",
+    "publishDate": "1890"
+  },
+  {
+    "id": 12,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "subject": "Fiction",
+    "publishDate": "1847"
+  },
+  {
+    "id": 13,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "subject": "Fiction",
+    "publishDate": "-725"
+  },
+  {
+    "id": 14,
+    "title": "The Iliad",
+    "author": "Homer",
+    "subject": "Fiction",
+    "publishDate": "-760"
+  },
+  {
+    "id": 15,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "subject": "Fiction",
+    "publishDate": "1472"
+  },
+  {
+    "id": 16,
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "subject": "Fiction",
+    "publishDate": "1475"
+  },
+  {
+    "id": 17,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "subject": "Fiction",
+    "publishDate": "1892"
+  },
+  {
+    "id": 18,
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "subject": "Fiction",
+    "publishDate": "1898"
+  },
+  {
+    "id": 19,
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "subject": "Fiction",
+    "publishDate": "1895"
+  },
+  {
+    "id": 20,
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "subject": "Fiction",
+    "publishDate": "1892"
+  },
+  {
+    "id": 15,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "subject": "Poetry",
+    "publishDate": "1320-01-01",
+    "pages": 798
+  },
+  {
+    "id": 16,
+    "title": "The Republic",
+    "author": "Plato",
+    "subject": "Philosophy",
+    "publishDate": "-380",
+    "pages": 336
+  },
+  {
+    "id": 17,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "subject": "Philosophy",
+    "publishDate": "180",
+    "pages": 304
+  },
+  {
+    "id": 18,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "subject": "Military strategy",
+    "publishDate": "5th century BC",
+    "pages": 273
+  },
+  {
+    "id": 19,
+    "title": "The Wealth of Nations",
+    "author": "Adam Smith",
+    "subject": "Economics",
+    "publishDate": "1776-03-09",
+    "pages": 950
+  },
+  {
+    "id": 20,
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "subject": "Biology",
+    "publishDate": "1859-11-24",
+    "pages": 502
+  },
+  {
+    "id": 21,
+    "title": "The Structure of Scientific Revolutions",
+    "author": "Thomas S. Kuhn",
+    "subject": "Philosophy of science",
+    "publishDate": "1962-12-01",
+    "pages": 172
+  },
+  {
+    "id": 22,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "subject": "Science fiction",
+    "publishDate": "1979-10-12",
+    "pages": 193
+  }
+]
